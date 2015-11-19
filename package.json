@@ -1,5 +1,5 @@
 {
-  "name": "apiai",
+  "name": "apiai-nodejs-co",
   "version": "1.0.2",
   "description": "Node.js SDK for api.ai",
   "main": "index.js",
