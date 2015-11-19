@@ -47,5 +47,3 @@ request.end()
 * Run following command.
 ```shell
 node main.js
-```
-* Your can find more examples in [`examples`](examples) directiry.

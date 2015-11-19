@@ -1,0 +1,25 @@
+{
+  "name": "apiai",
+  "version": "1.0.2",
+  "description": "Node.js SDK for api.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chukaofili/api-ai-nodejs-sdk.git"
+  },
+  "keywords": [
+    "api.ai",
+    "api",
+    "ai",
+    "api-ai"
+  ],
+  "author": "Chuka Ofili <ofili@microsmart.tk>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/chukaofili/api-ai-nodejs-sdk/issues"
+  },
+  "homepage": "https://github.com/chukaofili/api-ai-nodejs-sdk"
+}
