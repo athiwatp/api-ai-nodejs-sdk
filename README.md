@@ -17,7 +17,7 @@ npm install apiai-nodejs-co
 # Usage
 * Create `main.js` file. Insert into following code.
 ```javascript
-var apiai = require('apiai');
+var apiai = require('apiai-nodejs-co');
 
 var options = {
     hostname: "api.api.ai",
